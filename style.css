@@ -487,11 +487,16 @@ footer a{
         color: #fff;
         font-size: 40px;
         top: 0;
-        right: 35%;
+        right: 45%;
     }
-    :root{
+    .photo_container, .photo_cover, .cover_text {
         overflow-x: hidden;
     }
+
+    textarea{
+        margin-right: 20px;
+    }
+
 }
 
 
