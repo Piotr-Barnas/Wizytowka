@@ -487,7 +487,10 @@ footer a{
         color: #fff;
         font-size: 40px;
         top: 0;
-        right: 21%;
+        right: 35%;
+    }
+    :root{
+        overflow-x: hidden;
     }
 }
 
